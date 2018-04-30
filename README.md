@@ -12,4 +12,4 @@ I had difficulties accessing the admin console.
 I left the honey pot open for 15 minutes, and I have a total of 399 attacks.
 
 # Gif of Admin panel:
-![alt text](./Week\ 9.gif)
+![alt text](./"Week 9.gif")
